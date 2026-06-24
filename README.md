@@ -2,7 +2,7 @@
 
 Mapema is a premium, high-performance landing page representing a futuristic enterprise connectivity and loyalty rewards platform powering businesses and homes across East Africa.
 
-📱 **Live URL:** [View Live Site]([https://landingpage-mapemav1.vercel.app/])
+📱 **Live URL:** (https://landingpage-mapemav1.vercel.app/)
 
 ---
 
